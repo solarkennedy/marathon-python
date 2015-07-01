@@ -1,3 +1,8 @@
+## 0.6.16 (2015-07-01)
+
+Changes:
+* Add `ignore_http1xx` on `MarathonHealthCheck` (thanks @mrtheb)
+
 ## 0.6.15 (2015-06-05)
 
 Changes:
